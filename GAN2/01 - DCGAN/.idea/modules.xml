@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../02 - WGAN-GP/.idea/02 - WGAN-GP.iml" filepath="$PROJECT_DIR$/../02 - WGAN-GP/.idea/02 - WGAN-GP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DCGAN.iml" filepath="$PROJECT_DIR$/.idea/DCGAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PROGAN/.idea/PROGAN.iml" filepath="$PROJECT_DIR$/../PROGAN/.idea/PROGAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Generadors/dungeon-generation-master/.idea/dungeon-generation-master.iml" filepath="$PROJECT_DIR$/../../Generadors/dungeon-generation-master/.idea/dungeon-generation-master.iml" />
+    </modules>
+  </component>
+</project>
